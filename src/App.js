@@ -5,20 +5,13 @@ import SignIn from "./pages/SignIn"
 import SignUp from "./pages/SignUp"
 import ForgotPassword from "./pages/ForgotPassword"
 import Offers from "./pages/Offers"
-<<<<<<< HEAD
-=======
 import Header from "./components/Header"
->>>>>>> d0b8017 (create header component)
 
 function App() {
   return (
     <>
       <Router>
-<<<<<<< HEAD
-=======
         <Header/>
-        
->>>>>>> d0b8017 (create header component)
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/profile" element={<Profile />} />

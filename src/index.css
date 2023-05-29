@@ -1,8 +1,4 @@
 @tailwind base;
-<<<<<<< HEAD
 @tailwind components;
 @tailwind utilities;
-=======
-@tailwind utilities;
-@tailwind components;
->>>>>>> d0b8017 (create header component)
+
